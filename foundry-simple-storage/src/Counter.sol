@@ -13,7 +13,7 @@ contract Counter {
         number++;
     }
 
-    function addNumber() public {
+    function addNumber(uint256 value) public {
         
     }
 }
